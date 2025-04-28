@@ -1,9 +1,0 @@
-# Ignorar archivos sensibles
-.env
-
-# Ignorar imágenes de riesgo
-*.png
-
-# Ignorar caché de Python
-__pycache__/
-*.pyc
